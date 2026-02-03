@@ -1,6 +1,5 @@
 # Diagnosing Sales Decline for Strategic Portfolio Decisions
 
-<h1 align="center">Business Case</h1>
 In 2025, the company experienced a notable sales contraction despite improving profitability. Management needs to understand whether the decline is driven by demand weakness, pricing and product mix dynamics, or deeper structural issues, and where to prioritize resources to protect profitability while restoring sustainable growth.
 
 ### Objective
