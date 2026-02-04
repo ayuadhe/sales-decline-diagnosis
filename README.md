@@ -1,6 +1,8 @@
 # Diagnosing Sales Decline for Strategic Portfolio Decisions
 
-![image alt](https://github.com/adhecodes/sales-decline-diagnosis/blob/bdd3fbcaffdcae71cb3e4a183d24b9c125ad9474/cvr-sales-decline-diagnosis.png)
+<p align="center">
+  <img width="2775" height="1799" alt="Image" src="https://github.com/user-attachments/assets/1c0adf10-d268-41aa-9f40-860a487cfd36" />
+</p>
 
 In 2025, the company experienced a notable sales contraction despite improving profitability. Management needs to understand **whether the decline is driven by demand weakness, pricing and product mix dynamics, or deeper structural issues,** and **where to prioritize resources** to protect profitability while restoring sustainable growth.
 
@@ -18,7 +20,9 @@ The analysis reveals that the 2025 decline is **demand-driven** and **highly con
 <h1 align="center">Executive Summary</h1>
 <h3 align="center">Sales Performance Overview (2024-2025)</h3>
 
-![image alt](https://github.com/adhecodes/sales-decline-diagnosis/blob/29a45f9c320d5b14ef8b40e48fafd416eca7b995/image.png)
+<p align="center">
+  <img width="1506" height="606" alt="Image" src="https://github.com/user-attachments/assets/bae17d0b-4175-415a-a7d9-4bb4136174ff" />
+</p>
 
 In 2025, total sales declined by **9.4% YoY**, primarily driven by a **6.2% contraction in quantity sold**. Despite weaker demand, the business successfully preserved profitability, with **profit margin improving by 7.6% YoY**.
 
@@ -156,85 +160,3 @@ Overall margins remained stable between 22% and 30% throughout the year, with se
 - **Rationale:** This product generates negative value across both volume and margin dimensions and should not compete for scarce resources without a compelling recovery case.
 <br>
 <br>
-
-<table>
-  <tr>
-    <td width="50%">
-
-### Accelerate
-- Scale high-quality growth
-- Prioritize investment
-- Protect margins
-
-    </td>
-    <td width="50%">
-
-### Defend Margin
-- Preserve profitability
-- Selective volume recovery
-- SKU rationalization
-
-    </td>
-  </tr>
-</table>
-
-///
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 1. Accelerate — Invest to Scale High-Quality Growth
-- **Products:** Printers, Electronic Games
-- **Objective:** Maximize value creation by scaling segments that deliver sustainable, profitable growth. 
-- **Recommended Actions:**
-  - **Prioritize capital, inventory, and marketing spend** toward these sub-categories.
-  - **Protect margin integrity** by avoiding unnecessary discounting; growth is demand-led, not price-led.
-  - Invest in **product innovation, feature differentiation, and targeted promotions** to reinforce competitive advantage.
-  - Strengthen supply chain reliability to support scaling without margin dilution.
-- **Rationale:** These products demonstrate quality growth, expanding volumes without sacrificing profitability making them the strongest candidates for incremental investment.
-
-    </td>
-    <td width="50%" valign="top">
-
-### 2. Defend — Stabilize Volume Without Sacrificing Profitability
-- **Products:** Chairs, Pens, Markers, Paper, Bookcases, Phones
-- **Objective:** Prevent further volume erosion while preserving profitability.
-- **Recommended Actions:**
-  - Diagnose **root causes of volume decline** (price sensitivity, substitution, channel shift, or demand saturation).
-  - Deploy **selective, targeted growth levers** (bundling, contract pricing, loyalty programs) rather than broad discounts.
-  - Maintain **strict margin discipline**; accept controlled volume decline where recovery would require margin-destructive pricing.
-  - Rationalize low-velocity SKUs to reduce operational complexity and cost-to-serve.
-- **Rationale:** These segments remain profitable but face structural or competitive demand pressure. The goal is value protection, not aggressive growth.
-
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-
-### 3. Repair Margin — Fix Economics Before Scaling Further
-- **Products:** Laptops, Tables
-- **Objective:** Restore economic efficiency by addressing pricing, discounting, and cost leakage before pursuing additional growth. 
-- **Recommended Actions:**
-  - Review **pricing and promotional depth** to identify margin leakage.
-  - Optimize **cost-to-serve** (logistics, returns, supplier terms) to support profitable growth.
-  - Pause aggressive expansion until margin performance stabilizes.
-  - Test price elasticity carefully to rebalance growth and profitability.
-- **Rationale:** Demand exists, but current growth is value-eroding. Scaling without fixing margins risks diluting overall portfolio profitability.
-
-    </td>
-    <td width="50%" valign="top">
-
-### 4. Deprioritize — Minimize Exposure to Value-Destructive Segments
-- **Products:** Sofas
-- **Objective:** Limit capital allocation and management attention due to weak value creation.
-- **Recommended Actions:**
-  - Reduce inventory exposure and discretionary marketing spend.
-  - Consider **SKU rationalization, repositioning, or phased exit**.
-  - Attempt turnaround only if a **clearly defined, economically viable strategy** exists (e.g., premium repositioning or cost restructuring).
-- **Rationale:** This product generates negative value across both volume and margin dimensions and should not compete for scarce resources without a compelling recovery case. 
-
-    </td>
-  </tr>
-</table>
