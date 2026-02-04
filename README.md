@@ -10,11 +10,11 @@ In 2025, the company experienced a notable sales contraction despite improving p
 This project aims to:
 - Diagnose the **primary drivers** of the 2025 sales decline across **volume, price, and mix**.
 - Identify categories and sub-categories with **sustained growth and healthy margins** versus those **eroding value**
-- Evaluate the volume–profitability trade-off to distinguish high-quality growth from value erosion
+- **Evaluate the volume–profitability trade-off** to distinguish high-quality growth from value erosion
 - Translate analytical insights into **clear, actionable strategic priorities** to inform portfolio focus and resource allocation decisions.
 
 ### Outcome
-The analysis reveals that the 2025 decline is **demand-driven** and **highly concentrated in specific categories**, while a limited set of sub-categories continues to deliver sustainable, margin-accretive growth. These insights support more focused **investment, pricing, and portfolio decisions**.
+The analysis reveals that the 2025 decline is **demand-driven** and **highly concentrated in specific categories**, while a limited set of sub-categories continues to deliver sustainable, margin-accretive growth. **These insights support more focused investment, pricing, and portfolio decisions**.
 
 <br>
 <h1 align="center">Executive Summary</h1>
@@ -59,8 +59,8 @@ The 2025 sales contraction is highly concentrated at the category level. While O
 
 Monthly category trends show diverging demand dynamics:
 
-- **Electronics** displays stronger peaks and a clear **December rebound**, indicating resilient demand and seasonal momentum.
-- **Office Supplies** is the most volatile category, with a pronounced **mid-year trough**, pointing to structural demand weakness.
+- **Electronics** displays stronger peaks and a clear December rebound, indicating resilient demand and seasonal momentum.
+- **Office Supplies** is the most volatile category, with a pronounced mid-year trough, pointing to structural demand weakness.
 - **Furniture** remains broadly flat, showing limited upside and weak recovery signals.
 
 <br>
@@ -73,7 +73,7 @@ Sub-category analysis explains these outcomes:
 - **Furniture performance is mixed**, with **Tables (+7.5%)** as the only notable positive contributor.
 - **Electronics growth is structurally driven**, led by **Laptops (+51.1%)** and **Electronic Games (+28.5%)**.
 
-Margins improved across all categories (+5–12% YoY). However, in Office Supplies, margin expansion coincides with sharp volume decline, suggesting price sensitivity and mix effects may be accelerating demand loss rather than stabilizing the category.
+Margins improved across all categories (+5–12% YoY). However, in Office Supplies, **margin expansion coincides with sharp volume decline, suggesting price sensitivity and mix effects** may be accelerating **demand loss** rather than **stabilizing the category**.
 
 <br>
 <h1 align="center">Profitability & Margin Analysis</h1>
@@ -124,7 +124,7 @@ Overall margins remained stable between 22% and 30% throughout the year, with se
   - **Prioritize capital, inventory, and marketing spend** toward these sub-categories.
   - **Protect margin integrity** by avoiding unnecessary discounting; growth is demand-led, not price-led.
   - Invest in **product innovation, feature differentiation, and targeted promotions** to reinforce competitive advantage.
-  - Strengthen supply chain reliability to support scaling without margin dilution.
+  - **Strengthen supply chain reliability** to support scaling without margin dilution.
 - **Rationale:** These products demonstrate quality growth, expanding volumes without sacrificing profitability making them the strongest candidates for incremental investment.
 
 
@@ -132,10 +132,10 @@ Overall margins remained stable between 22% and 30% throughout the year, with se
 - **Products:** Chairs, Pens, Markers, Paper, Bookcases, Phones
 - **Objective:** Prevent further volume erosion while preserving profitability.
 - **Recommended Actions:**
-  - Diagnose **root causes of volume decline** (price sensitivity, substitution, channel shift, or demand saturation).
-  - Deploy **selective, targeted growth levers** (bundling, contract pricing, loyalty programs) rather than broad discounts.
-  - Maintain **strict margin discipline**; accept controlled volume decline where recovery would require margin-destructive pricing.
-  - Rationalize low-velocity SKUs to reduce operational complexity and cost-to-serve.
+  - **Diagnose root causes of volume decline** (price sensitivity, substitution, channel shift, or demand saturation).
+  - **Deploy selective, targeted growth levers** (bundling, contract pricing, loyalty programs) rather than broad discounts.
+  - **Maintain strict margin discipline**; accept controlled volume decline where recovery would require margin-destructive pricing.
+  - **Rationalize low-velocity SKUs** to reduce operational complexity and cost-to-serve.
 - **Rationale:** These segments remain profitable but face structural or competitive demand pressure. The goal is value protection, not aggressive growth.
 
 
@@ -143,10 +143,10 @@ Overall margins remained stable between 22% and 30% throughout the year, with se
 - **Products:** Laptops, Tables
 - **Objective:** Restore economic efficiency by addressing pricing, discounting, and cost leakage before pursuing additional growth. 
 - **Recommended Actions:**
-  - Review **pricing and promotional depth** to identify margin leakage.
-  - Optimize **cost-to-serve** (logistics, returns, supplier terms) to support profitable growth.
-  - Pause aggressive expansion until margin performance stabilizes.
-  - Test price elasticity carefully to rebalance growth and profitability.
+  - **Review pricing and promotional depth** to identify margin leakage.
+  - **Optimize cost-to-serve** (logistics, returns, supplier terms) to support profitable growth.
+  - **Pause aggressive expansion** until margin performance stabilizes.
+  - **Test price elasticity** carefully to rebalance growth and profitability.
 - **Rationale:** Demand exists, but current growth is value-eroding. Scaling without fixing margins risks diluting overall portfolio profitability.
 
 
@@ -154,9 +154,9 @@ Overall margins remained stable between 22% and 30% throughout the year, with se
 - **Products:** Sofas
 - **Objective:** Limit capital allocation and management attention due to weak value creation.
 - **Recommended Actions:**
-  - Reduce inventory exposure and discretionary marketing spend.
-  - Consider **SKU rationalization, repositioning, or phased exit**.
-  - Attempt turnaround only if a **clearly defined, economically viable strategy** exists (e.g., premium repositioning or cost restructuring).
+  - **Reduce inventory exposure** and discretionary marketing spend.
+  - Consider **SKU rationalization**, **repositioning**, or **phased exit**.
+  - Attempt turnaround only if a clearly defined, economically viable strategy exists (e.g., premium repositioning or cost restructuring).
 - **Rationale:** This product generates negative value across both volume and margin dimensions and should not compete for scarce resources without a compelling recovery case.
 <br>
 <br>
