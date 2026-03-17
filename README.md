@@ -25,7 +25,7 @@ The analysis aims to identify the key drivers of this decline by examining perfo
 
 3. **Growth is highly concentrated in Electronics.** Electronics (+18.7%) is the sole growth driver, while Office Supplies (-25.4%) and Furniture (-15.8%) are dragging overall sales performance.
 
-4. **Profitability remains strong but potentially misleading.** Margins rose (+7.6% YoY) despite declining sales, signaling gains driven by pricing or product mix rather than underlying demand. In Office Supplies, higher margins alongside sharp volume declines point to a risk of accelerating demand contraction.
+4. **Profitability remains strong but potentially misleading.** Margins rose (+7.6% YoY) despite declining sales, signaling gains driven by pricing or product mix rather than underlying demand. In Office Supplies, higher margins alongside sharp volume declines point to a risk of amplifying demand contraction.
 
 5. **Office Supplies is the most structurally challenged category.** Broad volume declines, high volatility, and margin expansion masking demand weakness suggest continued downside risk without targeted intervention.
 
@@ -82,6 +82,128 @@ Although sales softened across most quarters, **quarterly margins consistently r
 ### 3. Product Performance 
 
 <br> 
+
+<p align="center">
+  <img width="1497" height="367" alt="Image" src="https://github.com/user-attachments/assets/9263cde4-51f4-4db2-8958-492b35ed09f5" />
+</p>
+
+The 2025 sales contraction is highly concentrated at the category level. While **Office Supplies and Furniture experienced material demand contraction**, **Electronics remains the only category with sustained growth**.
+
+Monthly category trends show diverging demand dynamics:
+
+- **Electronics** displays stronger peaks and a clear December rebound, indicating resilient and seasonally-driven demand.
+- **Office Supplies** is the most volatile category, with a pronounced mid-year trough, pointing to structural demand weakness.
+- **Furniture** remains the most stable category, showing limited upside and weak recovery signals.
+
+<br> 
+
+<p align="center">
+  <img width="960" height="408" alt="Image" src="https://github.com/user-attachments/assets/af243ea9-55d4-4f5b-83f5-4aee995b3ab4" />
+</p>
+
+*To understand these category-level dynamics, we examine performance at the sub-category level.*
+- **Office Supplies faces broad-based volume erosion**, particularly in **Paper (-48.4%)** and **Binders (-27.6%)**.
+- **Furniture performance is mixed**, with **Tables (+7.5%)** as the only notable positive contributor.
+- **Electronics growth is structurally driven**, led by **Laptops (+51.1%)** and **Electronic Games (+28.5%)**.
+
+<br> 
+
+<p align="center">
+  <img width="531" height="408" alt="Image" src="https://github.com/user-attachments/assets/1c7ee737-9389-426e-95d1-2f580c679ced" />
+</p>
+
+Margins improved across all categories (+5–12% YoY). However, in **Office Supplies**, **margin expansion coincides with sharp volume decline**, suggesting **price sensitivity and mix effects may be amplifying demand loss rather than stabilizing the category**.
+
+<br>
+
+### 4. Profitability & Margin Analysis
+
+<br> 
+
+<p align="center">
+  <img width="601" height="364" alt="Image" src="https://github.com/user-attachments/assets/137e3481-abdd-4aa1-a8f3-e20e4efe5082" />
+</p>
+
+Overall margins remained stable between **22% and 30%** throughout the year, with several months in 2025 outperforming 2024, indicating **improved efficiency or pricing discipline**.
+
+<br> 
+
+<p align="center">
+  <img width="894" height="369" alt="Image" src="https://github.com/user-attachments/assets/2a173004-675f-4c14-b2f6-f2603047fb2c" />
+</p>
+
+**At the sub-category level:**
+
+- **Printers (+82.9% YoY profit)** and **Electronic Games (+14.7%)** show strong profit momentum.
+- **Paper (-36%) and Pens (-22%)** experienced sharp profit declines, consistent with structural volume erosion.
+
+<br> 
+
+<p align="center">
+  <img width="1501" height="439" alt="Image" src="https://github.com/user-attachments/assets/f5a4256d-bdef-4d60-ac23-27c81b932c95" />
+</p>
+
+*Sub-categories fall into **four strategic groups** based on volume and margin dynamics, with bubble size reflecting profit contribution.*
+
+- **Accelerate** — **Printers and Electronic Games** stand out as high-quality growth candidates, combining volume expansion with margin improvement.
+- **Defend** — **Chairs, Pens, Markers, Paper, Bookcases, and Phones** maintain acceptable margins but face declining volumes, requiring selective defense rather than broad investment.
+- **Fix Pricing** — **Laptops and Tables** show positive volume momentum but weaker margins, pointing to pricing or cost inefficiencies rather than demand issues.
+- **Deprioritize** — **Sofas** show declining margins and volumes, suggesting limited value contribution.
+
+<br>
+<h1 align="center">Strategic Recommendations</h1>
+<br>
+
+### **1. Accelerate — Invest to Scale High-Quality Growth**
+
+- **Products:** Printers, Electronic Games
+- **Objective:** Maximize value creation by scaling segments that deliver sustainable, profitable growth.
+- **Recommended Actions:**
+    - **Prioritize capital, inventory, and marketing spend** toward these sub-categories.
+    - **Protect margin integrity** by avoiding unnecessary discounting; growth is demand-led, not price-led.
+    - Invest in **product innovation, feature differentiation, and targeted promotions** to reinforce competitive advantage.
+    - **Strengthen supply chain reliability** to support scaling without margin dilution.
+- **Rationale:** These products demonstrate quality growth, expanding volumes without sacrificing profitability making them the strongest candidates for incremental investment.
+
+### **2. Defend — Stabilize Volume Without Sacrificing Profitability**
+
+- **Products:** Chairs, Pens, Markers, Paper, Bookcases, Phones
+- **Objective:** Prevent further volume erosion while preserving profitability.
+- **Recommended Actions:**
+    - **Diagnose root causes of volume decline** (price sensitivity, substitution, channel shift, or demand saturation).
+    - **Deploy selective, targeted growth levers** (bundling, contract pricing, loyalty programs) rather than broad discounts.
+    - **Maintain strict margin discipline**; accept controlled volume decline where recovery would require margin-destructive pricing.
+    - **Rationalize low-velocity SKUs** to reduce operational complexity and cost-to-serve.
+- **Rationale:** These segments remain profitable but face structural or competitive demand pressure. The goal is value protection, not aggressive growth.
+
+### **3. Fix Pricing — Repair Margins Before Scale**
+
+- **Products:** Laptops, Tables
+- **Objective:** Restore economic efficiency by addressing pricing, discounting, and cost leakage before pursuing additional growth.
+- **Recommended Actions:**
+    - **Review pricing and promotional depth** to identify margin leakage.
+    - **Optimize cost-to-serve** (logistics, returns, supplier terms) to support profitable growth.
+    - **Pause aggressive expansion** until margin performance stabilizes.
+    - **Test price elasticity** carefully to rebalance growth and profitability.
+- **Rationale:** Demand exists, but current growth is value-eroding. Scaling without fixing margins risks diluting overall portfolio profitability.
+
+### 4. Deprioritize — Minimize Exposure to Value-Destructive Segments
+
+- **Products:** Sofas
+- **Objective:** Limit capital allocation and management attention due to weak value creation.
+- **Recommended Actions:**
+    - **Reduce inventory exposure** and discretionary marketing spend.
+    - Consider **SKU rationalization**, **repositioning**, or **phased exit**.
+    - Attempt turnaround only if a clearly defined, economically viable strategy exists (e.g., premium repositioning or cost restructuring).
+- **Rationale:** This product generates negative value across both volume and margin dimensions and should not compete for scarce resources without a compelling recovery case.
+
+
+
+
+
+
+
+
 
 
 
